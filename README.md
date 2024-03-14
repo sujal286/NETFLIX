@@ -1,2 +1,2 @@
 # NETFLIX
-Netflix-clone using css ang html
+Netflix-cline using css and html.
